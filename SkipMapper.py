@@ -1,6 +1,6 @@
 
 
-
+## Created by Siddhartha Pachhai on July 13 2018
 
 def rapidCounter(array, unique, count):
     import numpy as np
